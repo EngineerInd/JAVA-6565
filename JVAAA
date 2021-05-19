@@ -1,0 +1,11 @@
+package comparison;
+public class Top {
+public int start() {
+  return 0;
+}
+}
+class Bottom extends Top {
+ public int stop() {
+  return 0;
+ }
+}
